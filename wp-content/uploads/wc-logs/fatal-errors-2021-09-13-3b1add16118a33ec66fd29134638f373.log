@@ -1,0 +1,8 @@
+2021-09-13T09:37:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\Requests\Transport\cURL.php on line 484
+
+2021-09-13T09:38:44+00:00 CRITICAL The SiteGround Optimizer plugin is designed to work only on SiteGround Servers. in C:\xampp\htdocs\ecommerce\wp-content\plugins\sg-cachepress\core\Activator\Activator.php on line 21
+
+2021-09-13T09:38:48+00:00 CRITICAL The SiteGround Optimizer plugin is designed to work only on SiteGround Servers. in C:\xampp\htdocs\ecommerce\wp-content\plugins\sg-cachepress\core\Activator\Activator.php on line 21
+
+2021-09-13T09:38:48+00:00 CRITICAL The SiteGround Optimizer plugin is designed to work only on SiteGround Servers. in C:\xampp\htdocs\ecommerce\wp-content\plugins\sg-cachepress\core\Activator\Activator.php on line 21
+
